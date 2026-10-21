@@ -2,6 +2,8 @@
 
 React 18 + Vite + React Router. No backend: cart, favourites, account and orders are saved in the browser (localStorage).
 
+live Demo - https://bakery-shop-ui.vercel.app/
+
 ## Run it
 ```bash
 npm install
